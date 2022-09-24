@@ -98,6 +98,7 @@
 - [JM61.dev](https://github.com/jm61)
 - [Jeroen van Halderen]()
 - [Nestor Blanco]()
+- [Or Atias](https://github.com/orati1111)
 - [Zachary Hallemeyer](https://github.com/Zachary-Hallemeyer)
 - [Immu Bhai](https://github.com/JuliusEternal)
 - [Ahmed Magdy](https://github.com/bugz8)
